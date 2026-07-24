@@ -1,4 +1,3 @@
-Engineering materials
 This repository contains engineering materials of yatta team 2027 self-driven vehicle's model participating in the WRO Future Engineers 
 competition in the season 2026-2027.
 
